@@ -23,6 +23,6 @@
  </a>
 </p>
 
-[![Sparkline](https://stars.medv.io/Lucas-Duarte-dev/badges.svg)](https://stars.medv.io/Lucas-Duarte-dev/badges)
+[![Anurag's github trophy](https://github-profile-trophy.vercel.app/?username=Lucas-Duarte-dev&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Lucas-Duarte-dev/)
