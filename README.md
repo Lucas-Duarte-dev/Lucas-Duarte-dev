@@ -6,7 +6,9 @@
     <li>Aberto para novas propostas de trabalho</li>
     <li>Cursando ADS na Universidade Cruzeiro do Sul | 3° Semestre</li>
 </ul>
+
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
+
 ## Minhas redes! 🌐
 
 [Meu perfil](https://lucasduarte.vercel.app) 🌑
