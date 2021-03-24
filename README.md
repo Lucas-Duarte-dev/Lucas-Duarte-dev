@@ -17,6 +17,7 @@
 <a href="https://www.linkedin.com/in/lucas-duarte-ab65051b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
+
 ## Minhas Estatísticas e Linguages 👨‍💻
 
 <p>
