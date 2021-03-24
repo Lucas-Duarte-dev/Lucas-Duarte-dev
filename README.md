@@ -23,6 +23,8 @@
  </a>
 </p>
 
+[![Anurag's github trophy](https://github-profile-trophy.vercel.app/?username=Lucas-Duarte-dev&row=1)](https://github.com/ryo-ma/github-profile-trophy#)
+
 ##
 
 <div style="display: inline_block"><br>
@@ -32,7 +34,5 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-[![Anurag's github trophy](https://github-profile-trophy.vercel.app/?username=Lucas-Duarte-dev&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Lucas-Duarte-dev/)
