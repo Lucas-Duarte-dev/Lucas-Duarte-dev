@@ -11,15 +11,18 @@
 
 [![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/HrkzuVzbpA) 👈
 
+<div style="display: inline_block"><br/>
+<a href="https://www.instagram.com/lucas_duar32/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-[Meu perfil](https://lucasduarte.vercel.app) 🌑
- 
+<a href="https://www.linkedin.com/in/lucas-duarte-ab65051b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+</div>
 ## Minhas Estatísticas e Linguages 👨‍💻
 
 <p>
   <a href="https://github.com/Lucas-Duarte-dev">
-    <img width="300px" src="https://github-readme-stats.vercel.app/api?username=Lucas-Duarte-dev&show_icons=true&theme=dracula" alt="Lucas-Duarte-dev | Stats" />
-    <img width="300x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Duarte-dev&langs_count=6&theme=dracula&layout=compact" alt="Lucas-Duarte-dev | Langs" />
+    <img width="350px" src="https://github-readme-stats.vercel.app/api?username=Lucas-Duarte-dev&show_icons=true&theme=dracula" alt="Lucas-Duarte-dev | Stats" />
+    <img width="350x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Duarte-dev&langs_count=6&theme=dracula&layout=compact" alt="Lucas-Duarte-dev | Langs" />
  </a>
 </p>
 
