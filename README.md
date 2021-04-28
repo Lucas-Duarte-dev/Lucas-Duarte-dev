@@ -23,7 +23,6 @@
  </a>
 </p>
 
-[![Anurag's github trophy](https://github-profile-trophy.vercel.app/?username=Lucas-Duarte-dev&row=1)](https://github.com/ryo-ma/github-profile-trophy#)
 
 ##
 
