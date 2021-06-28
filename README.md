@@ -3,7 +3,6 @@
 <ul>
     <li>Autodidata e apaixonado por programação</li>
     <li>Estudando diariamente para melhorar cada vez mais minhas habilidades</li>
-    <li>Aberto para novas propostas de trabalho</li>
     <li>Cursando ADS na Universidade Cruzeiro do Sul | 4° Semestre</li>
 </ul>
 
