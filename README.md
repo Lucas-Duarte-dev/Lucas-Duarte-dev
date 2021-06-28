@@ -17,7 +17,7 @@
 
 <p>
   <a href="https://github.com/Lucas-Duarte-dev">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Lucas-Duarte-dev&show_icons=true&theme=dracula" alt="Lucas-Duarte-dev | Stats" />
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Lucas-Duarte-dev&show_icons=true&theme=dracula" alt="Lucas-Duarte-dev | Stats" /><br>
     <img width="400x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Duarte-dev&langs_count=6&theme=dracula&layout=compact" alt="Lucas-Duarte-dev | Langs" />
  </a>
 </p>
