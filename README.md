@@ -17,10 +17,10 @@
 
 ## Minhas Estatísticas e Linguagens 👨‍💻
 
-[![Lucas-Duarte-dev](https://github-readme-stats.vercel.app/api?username=Lucas-Duarte-dev&show_icons=true&theme=nightowl)](https://twitter.com/Lucas-Duarte-dev)
-![Lucas-Duarte-dev](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Duarte-dev&langs_count=6&theme=nightowl&layout=compact)
+[![Lucas-Duarte-dev](https://github-readme-stats.vercel.app/api?username=Lucas-Duarte-dev&show_icons=true&theme=nightowl)](https://github.com/Lucas-Duarte-dev) <br/>
+![Lucas-Duarte-dev](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Duarte-dev&langs_count=6&theme=nightowl&layout=compact)<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lucas-Duarte-dev&theme=nightowl)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lucas-Duarte-dev&theme=nightowl)](https://git.io/streak-stats)<br/>
 
 ---
 
